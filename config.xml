@@ -20,6 +20,8 @@
         <allow-intent href="market:*" />
     </platform>
     <platform name="ios">
+        
+        <gap:splash src="images/Default-568h@2x.png" gap:platform="ios" width="640" height="1136" />
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
